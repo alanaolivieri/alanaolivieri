@@ -7,7 +7,7 @@ Me especializo en tecnologías con lenguaje Python, C++ y SQL.
 
 Soy una persona emprendedora y apasionada por aprender cada vez más.
 
-Tengo sólidos conocimientos en diseño de interfaces, experiencia de usuarios, Adobe Photoshop, identidad corporativa y Marketing digital.
+Tengo sólidos conocimientos en Data Mining, Machine Learning y Deep Learning, siempre buscando las mejores soluciones.
 
 
 ![87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3](https://github.com/alanaolivieri/alanaolivieri/assets/97708382/f69a5f3f-0723-43fb-9e6a-a2602f1ccfb5)
