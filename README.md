@@ -15,7 +15,7 @@ Tengo sólidos conocimientos en Data Mining, Machine Learning y Deep Learning, s
 
 🔭 Actualmente trabajo en Eurecat como ingeniero de formación, investigación y desarrollo. 
 
-📚 Soy mentora de la especialización de Data Science en IT Academy y teacher assistant en CodeOp. Me gusta mucho enseñar y aportar mi granito de arena a la sociedad.
+📚 Soy mentora de la especialización de Data Analytics en IT Academy y teacher assistant de Data Science en CodeOp. Me gusta mucho enseñar y aportar mi granito de arena a la sociedad.
 
 🎶 Me encanta todo tipo de música, toco el violoncello!
 
